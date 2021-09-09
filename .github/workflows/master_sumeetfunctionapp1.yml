@@ -40,4 +40,4 @@ jobs:
         app-name: 'sumeetfunctionapp1'
         slot-name: 'production'
         package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a9ee12cb4e7e4ec181a671216acaa24f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ecc3725db75741bfa9da0c5a7a4db732 }}
