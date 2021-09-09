@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '1d185e87-4429-4086-ad3b-51248b094abd'
+  azureSubscription: 'db10be44-4028-4be8-b867-0f1cad231245'
 
   # Function app name
   functionAppName: 'sumeetfunctionapp1'
